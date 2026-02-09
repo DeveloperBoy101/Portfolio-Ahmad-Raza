@@ -74,7 +74,7 @@ const AboutMeSection = () => {
           </div>
 
           <a
-            href="/CV.pdf"
+            href="/CV2.pdf"
             target="_blank"
             rel="noopener noreferrer"
             download
